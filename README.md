@@ -17,4 +17,4 @@ Trained model JSON -> [face_model.h5](https://github.com/piyush2896/Facial-Expre
 ## Usage
 Run the code blocks in the [notebook](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/Facial-Expression-Recognition-Challenge.ipynb) in the order to see the result.
 
-Run the code [camera.py](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/camera.py)
+Run the code [camera.py](https://github.com/piyush2896/Facial-Expression-Recognition-Challenge/blob/master/camera.py) to see application in action
